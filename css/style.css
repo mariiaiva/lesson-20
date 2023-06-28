@@ -7,6 +7,12 @@
 }
 #nav-mobile{
     margin-right: 60px;
-
+}
+h1,h2{
+    text-align: center;
+}
+.content{
+    background-image: url(https://ukr.media/static/ba/aimg/3/6/5/365604_1.jpg);
+    border: 1px solid black;
 }
 
