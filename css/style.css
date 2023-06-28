@@ -14,8 +14,9 @@ h1,h3{
 }
 
 .content{
-    background-image: url(https://politeka.net/crops/00db4f/360x0/1/0/2016/02/02/0cruy4ZbpmdHx91gWm1AjsIQrtxAfHtm.jpg);
+    background-image: url(https://images.wallpaperscraft.ru/image/single/nebo_zakat_oblaka_115877_1280x720.jpg);
     background-size: cover;
+  
     height: 400px;
 }
 hr{
@@ -24,5 +25,6 @@ hr{
     padding: 10px;
     color: white;
 }
-
-
+.waves-effect{
+   margin-left: 900px;
+}
