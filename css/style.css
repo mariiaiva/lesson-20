@@ -11,20 +11,31 @@
 h1,h3{
     text-align: center;
     color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .content{
     background-image: url(https://images.wallpaperscraft.ru/image/single/nebo_zakat_oblaka_115877_1280x720.jpg);
     background-size: cover;
   
-    height: 400px;
+    height: 550px;
 }
 hr{
     width: 200px;
     margin: 0 auto;
-    padding: 10px;
+    padding: 20px;
     color: white;
 }
 .waves-effect{
-   margin-left: 900px;
+   margin-left: 850px;
+   width: 200px;
+}
+p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+#into{
+    color: white;
+    font-size: 20px;
 }
