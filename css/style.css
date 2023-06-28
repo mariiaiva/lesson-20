@@ -11,8 +11,10 @@
 h1,h2{
     text-align: center;
 }
+
 .content{
-    background-image: url(https://ukr.media/static/ba/aimg/3/6/5/365604_1.jpg);
-    border: 1px solid black;
+    background-image: url(https://politeka.net/crops/00db4f/360x0/1/0/2016/02/02/0cruy4ZbpmdHx91gWm1AjsIQrtxAfHtm.jpg);
+    background-size: cover;
+    height: 400px;
 }
 
