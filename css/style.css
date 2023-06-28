@@ -1,3 +1,6 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .icon{
     width: 20px;
     height: 20px;
@@ -20,6 +23,12 @@ h1,h3{
   
     height: 550px;
 }
+.content1{
+    background-image: url(https://oir.mobi/uploads/posts/2021-03/1616986541_4-p-sero-chernii-fon-4.jpg);
+    background-size: cover;
+  
+    height: 1500px;
+}
 hr{
     width: 200px;
     margin: 0 auto;
@@ -39,7 +48,7 @@ p{
     color: white;
     font-size: 20px;
 }
-h2{
+h2, h4{
     text-align: center;
 }
 .red{
@@ -55,4 +64,15 @@ h2{
     color: white;
     font-size: 20px;
     margin-top: 30px;
+}
+.ic{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin-left: 20px;
+}
+.laptop{
+    width: 600px;
+    height: 600px;
+   margin-left: 600px;
 }
