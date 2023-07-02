@@ -1,5 +1,6 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 .icon{
     width: 20px;
@@ -20,14 +21,13 @@ h1,h3{
 .content{
     background-image: url(https://images.wallpaperscraft.ru/image/single/nebo_zakat_oblaka_115877_1280x720.jpg);
     background-size: cover;
-  
     height: 550px;
 }
 .content1{
     background-image: url(https://oir.mobi/uploads/posts/2021-03/1616986541_4-p-sero-chernii-fon-4.jpg);
     background-size: cover;
   
-    height: 2000px;
+    height: 1200px;
 }
 hr{
     width: 200px;
@@ -36,7 +36,7 @@ hr{
     color: white;
 }
 .waves-effect{
-   margin-left: 850px;
+   margin-left: 660px;
    width: 200px;
 }
 p{
@@ -47,6 +47,7 @@ p{
 #into{
     color: white;
     font-size: 20px;
+    margin-left: -50px;
 }
 h2, h4{
     text-align: center;
@@ -74,5 +75,103 @@ h2, h4{
 .laptop{
     width: 600px;
     height: 600px;
-   margin-left: 600px;
+   margin-left: 500px;
+}
+.people{
+    width: 600px;
+    height: 600px;
+}
+.collapsible{
+    width: 300px;
+}
+.collapsible-body{
+    background-color: white;
+}
+.quote{
+    color: black;
+}
+.name:after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 40px;
+	height: 2px;
+	background: #f38181;
+    margin-left: 200px;
+}
+.carousel {
+    background-color: gainsboro;
+    height: 300px;
+    padding: 20px;
+}
+.joe{
+   margin-left: 700px;
+   font-size: 20px;
+}
+.gallery{
+    width: 80px;
+    height: 80px;
+    margin-left: 700px;
+}
+#ourTeam .info {
+	margin-top: 35px;
+	text-align: center;
+}
+#ourTeam .name {
+	font-size: 14px;
+	margin: 0 0 5px;
+}
+#ourTeam .regency {
+	font-style: italic;
+}
+.people1{
+    width: 450px;
+    height: 450px;
+}
+#nino-brand {
+	padding: 50px 0;
+	background: #f8f8f8;
+	text-align: center;
+}
+.con{
+    background-color: gainsboro;
+    padding: 10px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.nino-testimonial {
+	background: #f8f8f8;
+	padding: 60px 0;
+}
+
+.testimonialSlider {
+	margin: 0 80px;
+}
+.testimonialSlider .nino-avatar {
+	width: 190px;
+	margin-right: 35px;
+}
+.testimonialSlider .nino-symbol {
+	margin: 0 35px 0 5px;
+}
+.testimonialSlider .nino-symbol .nino-icon {
+	padding: 16px;
+	border: 2px solid #95e1d3;
+	font-size: 65px;
+	color: #95e1d3;
+}
+.testimonialSlider .quote {
+	font-size: 18px;
+	font-weight: 300;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+.img-circle {
+    border-radius: 40%;
 }
